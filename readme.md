@@ -26,12 +26,13 @@ Tant que cette variable n'atteint pas 10, il faut :
 - l'incrementer de la moitié de sa valeur
 
 ##Exercice 5
-
+En allant de 1 à 15 avec un pas de 1, afficher le message **On y arrive presque**.
 
 ##Exercice 6
-
+En allant de 20 à 0 avec un pas de 1, afficher le message **C'est presque bon**.
 
 ##Exercice 7
-
+En allant de 1 à 100 avec un pas de 15, afficher le message **On tiens le bon bout**.
 
 ##Exercice 8
+En allant de 200 à 0 avec un pas de 12, afficher le message **Enfin !!!!**.
