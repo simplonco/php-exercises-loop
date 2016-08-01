@@ -32,7 +32,7 @@ En allant de 1 à 15 avec un pas de 1, afficher le message **On y arrive presque
 En allant de 20 à 0 avec un pas de 1, afficher le message **C'est presque bon**.
 
 ##Exercice 7
-En allant de 1 à 100 avec un pas de 15, afficher le message **On tiens le bon bout**.
+En allant de 1 à 100 avec un pas de 15, afficher le message **On tient le bon bout**.
 
 ##Exercice 8
 En allant de 200 à 0 avec un pas de 12, afficher le message **Enfin !!!!**.
